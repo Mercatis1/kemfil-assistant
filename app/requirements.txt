@@ -1,0 +1,5 @@
+requests>=2.31
+beautifulsoup4>=4.12
+haystack-ai>=3.4
+ollama-haystack>=7.0
+flet>=1.1

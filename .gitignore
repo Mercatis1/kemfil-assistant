@@ -1,0 +1,11 @@
+﻿# Секреты — никогда не выкладывать
+keys/*_key.txt
+
+# Служебное
+.venv/
+__pycache__/
+~$*
+
+# Журналы
+data/*_log.txt
+data/concerts_new/
